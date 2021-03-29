@@ -13,7 +13,7 @@
  * @author Zeshan
  */
 
-namespace Vizrex\LaravelEnvSwitcher;
+namespace \Vizrex\LaravelEnvSwitcher;
 
 use Vizrex\Laraviz\BaseServiceProvider;
 
