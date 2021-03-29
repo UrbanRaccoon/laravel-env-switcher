@@ -19,7 +19,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Vizrex\\LaravelEnvSwitcher\\LaravelEnvSwitcherProvider"
+                "Vizrex\\LaravelEnvSwitcher\\Providers\\LaravelEnvSwitcherProvider"
             ]
         }
     }
