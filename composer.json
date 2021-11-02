@@ -4,7 +4,7 @@
     "type": "laravel-package",
     "license": "MIT",
     "authors": [{
-        "name": "Urbanraccoon",
+        "name": "UrbanRaccoon",
         "email": "pieter.marchand@yeastconsulting.be"
     }],
     "minimum-stability": "dev",
