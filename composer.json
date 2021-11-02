@@ -1,15 +1,15 @@
 {
-    "name": "vizrex/laravel-env-switcher",
+    "name": "urbanraccoon/laravel-env-switcher",
     "description": "This package provides a command line utility to switch Laravel env files easily.",
     "type": "laravel-package",
-    "license": "proprietary",
+    "license": "MIT",
     "authors": [{
-        "name": "Vizrex",
-        "email": "laravel@vizrex.com"
+        "name": "Urbanraccoon",
+        "email": "pieter.marchand@yeastconsulting.be"
     }],
     "minimum-stability": "dev",
     "require": {
-        "vizrex/laraviz": "dev-dev-urban"
+        "urbanraccoon/laraviz": "dev-dev-urban"
     },
     "autoload": {
         "psr-4": {
